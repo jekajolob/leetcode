@@ -18,8 +18,6 @@ var searchInsert = function(nums, target) {
     }
     return i
     //return index
-
-    
 };
 
 console.log(searchInsert([1,3,5,6], 5)) // 2
